@@ -1,0 +1,11 @@
+started
+best theta: 1
+../data/rural/selected_demo/orig\rural_000001.png 0.829025 0.0853149 0.316637
+best theta: 157
+../data/rural/selected_demo/orig\rural_001491.png 0.968475 0.742975 0.486209
+best theta: 32
+[28, 27] [2, 38]
+../data/rural/selected_demo/orig\rural_001500.png 0.8284 0.276709 0.377814
+best theta: 157
+../data/rural/selected_demo/orig\rural_001931.png 0.90395 0.252018 0.275904
+ended
