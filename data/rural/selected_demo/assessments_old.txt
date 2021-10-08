@@ -1,9 +1,0 @@
-started
-../../data/rural/selected_demo/orig\rural_000001.png 0.338983 0.746269
-19 0
-../../data/rural/selected_demo/orig\rural_001491.png 0.58216 1
-19 0
-../../data/rural/selected_demo/orig\rural_001500.png 0.403743 0.547101
-19 0
-../../data/rural/selected_demo/orig\rural_001931.png 0.423077 1
-19 0
